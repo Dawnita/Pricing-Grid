@@ -7,7 +7,7 @@
   body {
     height: 100vh;
     display: flex;
-    background: #386860;
+    background: rgb(56, 75, 104);
   }
   
   .wrapper {
@@ -42,8 +42,8 @@
   }
   
   .title h1 {
-    color: #7CE8D5;
-    text-shadow: 1px 1px 1px rgba(0,0,0,.1);
+    color:papayawhip;
+    text-shadow:mediumpurple;
   }
   
   .list {
